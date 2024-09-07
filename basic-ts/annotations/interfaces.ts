@@ -1,3 +1,10 @@
+interface Vehicle {
+  name: string;
+  year: number;
+  broken: boolean;
+}
+
+
 const civic = {
   name: 'civic',
   year: 2000,
