@@ -9,4 +9,4 @@
 
 ## Tech Stack
 
-TypeScript: Superset of JavaScript that adds static typing.
+* TypeScript: Superset of JavaScript that adds static typing.
